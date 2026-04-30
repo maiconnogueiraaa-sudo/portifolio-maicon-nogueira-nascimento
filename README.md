@@ -11,9 +11,21 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Estudante de Recursos Humanos e Análise e Desenvolvimento de Sistemas, com experiência
+em governança de dados, catalogação e organização de informações. Atuação no controle de
+dados sensíveis, atualização de relatórios e suporte a áreas internas. Possui conhecimentos
+básicos em ferramentas de dados e interesse em desenvolvimento na área.
  
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
+* **Habilidades Técnicas:**
+Excel (Básico/Intermediário)
+ Conhecimentos básicos em SQL.
+Governança de Dados.
+LGPD & Proteção de Dados.
+ Gestão de pessoas. 
+ Organização e controle de informações.
+ Recrutamento e Seleção
+ Treinamento e Desenvolvimento (T&D)
+ 
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
  
