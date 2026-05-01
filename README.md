@@ -64,12 +64,17 @@ LGPD & Proteção de Dados.
 #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritimo de auditoria de dadosr** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./auditoria-de-vendas/) |
+| **Algoritimo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./auditoria-de-vendas/) |
 
- #### 🗃️ Modelagem de Banco de Dados
+ #### 🗃️ Engenharia de Soluções Lógicas
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Engenharia de Soluções Lógicas** |Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica.| [Ver Projeto](./engenharia-de-soluções-logicas/) |
+
+
+
+
+
  
 
  
